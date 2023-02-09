@@ -1,1 +1,1 @@
-displaying the content in a directory including hidden files
+ command that display content,long format,with user and group ids displaying numerically
