@@ -1,1 +1,1 @@
- command that display content,long format,with user and group ids displaying numerically
+a script that creates a directory
